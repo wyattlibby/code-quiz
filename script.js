@@ -174,16 +174,16 @@ function shuffle(arr){
 //data
 const storedQuestions = [
 	{
-		q: "1. What is the answer?",
-		a: ["Correct", "Wrong", "Way Off", "Incorrect"]
+		q: "1. What is 4+4?",
+		a: ["8", "12", "24", "4"]
 	},
 	{
-		q: "1. What is the answer?",
-		a: ["Correct", "Wrong", "Way Off", "Incorrect"]
+		q: "1. What is 20+20?",
+		a: ["40", "60", "80", "100"]
 	},
 	{
-		q: "1. What is the answer?",
-		a: ["Correct", "Wrong", "Way Off", "Incorrect"]
+		q: "1. What is 100+100?",
+		a: ["200", "4", "70", "500"]
 	},
 ]     
 	
